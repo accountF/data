@@ -1,0 +1,17 @@
+{
+  "user1": {
+    "id": "1",
+    "name": "Alena",
+    "login": "alena@gmail.com"
+  },
+  "user2": {
+    "id": "2",
+    "name": "Egor",
+    "login": "egor@gmail.com"
+  },
+  "user3": {
+    "id": "3",
+    "name": "Nikolay",
+    "login": "nikolay@gmail.com"
+  }
+}
